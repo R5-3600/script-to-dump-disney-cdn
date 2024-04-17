@@ -13,4 +13,4 @@ You will need Ruby installed. I am recommending the installer with the DevKit pa
 
 ## Notes:
 
-I have set the download cooldown to 10 seconds otherwise the script missed a lot of files and the Wayback Machine Internet Archive's API would rate limit your connections due to how fast the script was moving.
+I have set the dump cooldown to 10 seconds, otherwise the script missed a lot of files and the Wayback Machine Internet Archive's API would limit your connections due to how fast the script was moving.
